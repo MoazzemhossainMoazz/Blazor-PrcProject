@@ -1,0 +1,62 @@
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.staticwebassets.runtime.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.exe
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.deps.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.runtimeconfig.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.dll
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.pdb
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerAppDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerAppDemo.props
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerAppDemo.props
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerAppDemo.props
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\bundle\BlazorServerAppDemo.styles.css
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerAppDemo.bundle.scp.css
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.dll
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\refint\BlazorServerAppDemo.dll
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.pdb
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\ref\BlazorServerAppDemo.dll
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.staticwebassets.runtime.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.exe
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.deps.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.runtimeconfig.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.dll
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\bin\Debug\net7.0\BlazorServerAppDemo.pdb
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.AssemblyInfo.cs
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerAppDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerAppDemo.props
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerAppDemo.props
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerAppDemo.props
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\bundle\BlazorServerAppDemo.styles.css
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerAppDemo.bundle.scp.css
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.dll
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\refint\BlazorServerAppDemo.dll
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.pdb
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\BlazorServerAppDemo.genruntimeconfig.cache
+C:\Users\HP\Downloads\Blazor project\BlazorServerAppDemo\BlazorServerAppDemo\obj\Debug\net7.0\ref\BlazorServerAppDemo.dll

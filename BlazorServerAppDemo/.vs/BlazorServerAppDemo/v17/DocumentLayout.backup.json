@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Blazor project\\BlazorServerAppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{511580A1-AC2A-4F20-BDB5-C91639903923}|BlazorServerAppDemo\\BlazorServerAppDemo.csproj|c:\\users\\hp\\downloads\\blazor project\\blazorserverappdemo\\blazorserverappdemo\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511580A1-AC2A-4F20-BDB5-C91639903923}|BlazorServerAppDemo\\BlazorServerAppDemo.csproj|solutionrelative:blazorserverappdemo\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511580A1-AC2A-4F20-BDB5-C91639903923}|BlazorServerAppDemo\\BlazorServerAppDemo.csproj|c:\\users\\hp\\downloads\\blazor project\\blazorserverappdemo\\blazorserverappdemo\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511580A1-AC2A-4F20-BDB5-C91639903923}|BlazorServerAppDemo\\BlazorServerAppDemo.csproj|solutionrelative:blazorserverappdemo\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511580A1-AC2A-4F20-BDB5-C91639903923}|BlazorServerAppDemo\\BlazorServerAppDemo.csproj|c:\\users\\hp\\downloads\\blazor project\\blazorserverappdemo\\blazorserverappdemo\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{511580A1-AC2A-4F20-BDB5-C91639903923}|BlazorServerAppDemo\\BlazorServerAppDemo.csproj|solutionrelative:blazorserverappdemo\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Blazor project\\BlazorServerAppDemo\\BlazorServerAppDemo\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorServerAppDemo\\_Imports.razor",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Blazor project\\BlazorServerAppDemo\\BlazorServerAppDemo\\_Imports.razor",
+              "RelativeToolTip": "BlazorServerAppDemo\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T12:01:19.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Blazor project\\BlazorServerAppDemo\\BlazorServerAppDemo\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorServerAppDemo\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Blazor project\\BlazorServerAppDemo\\BlazorServerAppDemo\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorServerAppDemo\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T09:36:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.razor",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Blazor project\\BlazorServerAppDemo\\BlazorServerAppDemo\\Pages\\Test.razor",
+              "RelativeDocumentMoniker": "BlazorServerAppDemo\\Pages\\Test.razor",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Blazor project\\BlazorServerAppDemo\\BlazorServerAppDemo\\Pages\\Test.razor",
+              "RelativeToolTip": "BlazorServerAppDemo\\Pages\\Test.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T09:38:13.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

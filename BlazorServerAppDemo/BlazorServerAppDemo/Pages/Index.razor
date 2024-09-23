@@ -1,0 +1,39 @@
+﻿@page "/"
+
+@foreach(var contact in contacts)
+{
+    <p>
+        <b>Name: </b><span>@contacts.FirstName @contacts.LastName</span>
+        <b>Email: </b><i>@contacts.Email</i>
+    </p>
+}
+@code{
+    private List<Contact> contacts;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        contacts = new List<Contact>
+        {
+            new Contact
+            {
+                FirstName = "John",
+                LastName = "Doe",
+                Email = "johndow@gmail.com"
+            },
+            new Contact
+            {
+                FirstName = "Josef",
+                LastName = "Doe",
+                Email = "Josef@gmail.com"
+            },
+            new Contact
+            {
+                FirstName = "John",
+                LastName = "Doe",
+                Email = "johndow@gmail.com"
+            },
+        }
+    }
+}
