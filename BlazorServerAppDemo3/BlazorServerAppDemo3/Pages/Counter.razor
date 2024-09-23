@@ -1,0 +1,20 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<BlazorServerAppDemo3.Pages.ContactComponents.ContactComponent01 Firstname="David" LastName="John" Email="davidjohn@gmail.com"></BlazorServerAppDemo3.Pages.ContactComponents.ContactComponent01>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
