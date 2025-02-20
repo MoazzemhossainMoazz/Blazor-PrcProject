@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\blazorserverappdemo3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\blazorserverappdemo3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\pages\\contactcomponents\\contactcomponent01.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\pages\\contactcomponents\\contactcomponent01.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|d:\\projects\\blazor\\prcprojcet\\blazorserverappdemo3\\blazorserverappdemo3\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{893DBFBE-5606-4D80-8C09-0A8719EE3606}|BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj|solutionrelative:blazorserverappdemo3\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "BlazorServerAppDemo3\\Pages\\Counter.razor",
               "ToolTip": "D:\\Projects\\Blazor\\PrcProjcet\\BlazorServerAppDemo3\\BlazorServerAppDemo3\\Pages\\Counter.razor",
               "RelativeToolTip": "BlazorServerAppDemo3\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-23T09:50:37.912Z",
               "EditorCaption": ""
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\Projects\\Blazor\\PrcProjcet\\BlazorServerAppDemo3\\BlazorServerAppDemo3\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "BlazorServerAppDemo3\\Models\\Contact.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BlazorServerAppDemo3.csproj",
               "DocumentMoniker": "D:\\Projects\\Blazor\\PrcProjcet\\BlazorServerAppDemo3\\BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj",
               "RelativeDocumentMoniker": "BlazorServerAppDemo3\\BlazorServerAppDemo3.csproj",
@@ -91,19 +91,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.razor",
               "DocumentMoniker": "D:\\Projects\\Blazor\\PrcProjcet\\BlazorServerAppDemo3\\BlazorServerAppDemo3\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorServerAppDemo3\\Pages\\Index.razor",
               "ToolTip": "D:\\Projects\\Blazor\\PrcProjcet\\BlazorServerAppDemo3\\BlazorServerAppDemo3\\Pages\\Index.razor",
               "RelativeToolTip": "BlazorServerAppDemo3\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-23T06:02:05.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Imports.razor",
               "DocumentMoniker": "D:\\Projects\\Blazor\\PrcProjcet\\BlazorServerAppDemo3\\BlazorServerAppDemo3\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorServerAppDemo3\\_Imports.razor",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "D:\\Projects\\Blazor\\PrcProjcet\\BlazorServerAppDemo3\\BlazorServerAppDemo3\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorServerAppDemo3\\Shared\\MainLayout.razor",
